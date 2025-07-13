@@ -19,3 +19,4 @@
 [twitter]: https://x.com/niko_cappn
 [instagram]: https://www.instagram.com/_nikocap_/
 [linkedin]: https://linkedin.com/in/niko-cappiello
+portfolio: https://nikocappiello.weebly.com/
