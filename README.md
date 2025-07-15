@@ -2,14 +2,14 @@
 
 <h2> Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/nikocapp56/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/nikocapp56/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/nikocapp56/ticket-lifecycle)
 - <b>Microsoft Azure: Active Directory</b>
   - [Active Directory Infrastructure Setup in Azure](https://github.com/nikocapp56/Active-Directory-Infrastructure-Setup-in-Azure)
   - [Active Directory Deployment in Azure](https://github.com/nikocapp56/Active-Directory-Deployment-in-Azure)
   - [Active Directory Group Policy and User Access Management in Azure](https://github.com/nikocapp56/Active-Directory-User-Access-Management-in-Azure)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/nikocapp56/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/nikocapp56/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/nikocapp56/ticket-lifecycle)
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
