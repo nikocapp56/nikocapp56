@@ -1,4 +1,4 @@
-<h1>Hi, I'm Niko
+<h1>Hi, I'm Niko, an IT Professional
 
 <h2> Information Technology Projects:</h2>
 
